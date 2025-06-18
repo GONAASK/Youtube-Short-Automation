@@ -1,0 +1,6 @@
+moviepy==1.0.3
+cohere==4.37
+requests==2.31.0
+python-dotenv==1.0.0
+Pillow==10.0.1
+numpy==1.24.3 
