@@ -11,7 +11,7 @@ An automated system for generating engaging story videos with AI voiceovers, bac
 - 📚 **Story Continuation**: Continue existing stories with new parts
 - 🎯 **Multiple Genres**: AITA, Confessions, Horror, Malicious Compliance, Inspiring
 - 📱 **YouTube Shorts Optimized**: 9:16 aspect ratio, 30-60 second duration
-
+**CAPTIONS ARE STILL IN TESTING PHASE**
 ## Setup
 
 ### 1. Install Dependencies
